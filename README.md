@@ -5,8 +5,7 @@ This is a simple, responsive portfolio built using HTML, CSS, and JavaScript.
 
 ## 🔗 Live Demo
 
-🌐 [View Portfolio Live] https://github.com/leonardphokane.github.io
-
+🌐 [View Portfolio Live] https://leonardphokane.github.io/My_Portfolio/
 
 ## 📁 Project Structure
 
